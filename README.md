@@ -1,0 +1,1 @@
+# Linear-Regression-analysis-on-dummy-data-set
